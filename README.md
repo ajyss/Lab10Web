@@ -3,7 +3,7 @@
 
 ---
 
-## 👤 0. Identitas Mahasiswa
+## 👤 Identitas Mahasiswa
 
 * **Nama**: Muhammad Aziz Tri Ramadhan
 
@@ -146,7 +146,7 @@ Fitur:
 
 📸 **Screenshot placeholder:**
 
-<img src="listbarang.png![alt text](image.png)">
+<img src="listbarang.png">
 ---
 
 ### **6.2 barang_add.php**
