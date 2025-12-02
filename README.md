@@ -144,7 +144,7 @@ Fitur:
 * Aksi Edit dan Delete
 * Tabel dengan style modern
 
-📸 **Screenshot placeholder:**
+📸 **Screenshot :**
 
 <img src="listbarang.png">
 ---
@@ -154,7 +154,7 @@ Fitur:
 Halaman untuk menambah data baru.
 Menggunakan `Form` class + upload gambar.
 
-📸 **Screenshot placeholder:**
+📸 **Screenshot :**
 
 <img src="tambahbarang.png">
 
@@ -164,7 +164,7 @@ Menggunakan `Form` class + upload gambar.
 
 Digunakan untuk memperbarui data berdasarkan ID.
 
-📸 **Screenshot placeholder:**
+📸 **Screenshot :**
 
 <img src="dit.png">
 
@@ -187,7 +187,7 @@ Tampilan sudah diperbarui menjadi gaya dashboard modern:
 * Form lebih nyaman dilihat
 * Layout rapi dan profesional
 
-📸 **Screenshot placeholder tampilan dashboard:**
+📸 **Screenshot tampilan dashboard:**
 
 <img src="index.png">
 
